@@ -4,7 +4,8 @@ Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suz
 Reservoir Computing, to understand training process see [jujuba's article](http://jujuba.me/articles/reservoir_computing.html)
 
 # Prediction Models
-| Date | Model | Suited System | Document |
-|---| ----- | -------- | ---------- |
-| Apr 16, 2019 | Reservoir Computing | MIMO | [reservoir-computing.pdf](https://github.com/suzyi/machine-learning/blob/master/reservoir-computing.pdf) |
-| Apr 16, 2019 | Gaussian Processes Regression  | MISO | [GPR.pdf](https://github.com/suzyi/machine-learning/blob/master/GPR.pdf) |
+| Date(2019) | Model | Suited System | Document | ingredients |
+|---| ----- | -------- | ---------- | ---------- |
+| Apr 16 | LSTM | to-do | to-do |
+| Apr 16 | Reservoir Computing | MIMO | [RC.pdf](https://github.com/suzyi/machine-learning/blob/master/RC.pdf) | neural network |
+| Apr 16 | Gaussian Processes Regression  | MISO | [GPR.pdf](https://github.com/suzyi/machine-learning/blob/master/GPR.pdf) | kernel trick |
