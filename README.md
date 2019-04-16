@@ -6,5 +6,5 @@ Reservoir Computing, to understand training process see [jujuba's article](http:
 # Prediction Models
 | Date | Model | Suited System | Document |
 |---| ----- | -------- | ---------- |
-| April 16, 2019 | Reservoir Computing | MIMO | |
-| April 16, 2019 | Gaussian Processes Regression  | MISO | |
+| April 16, 2019 | Reservoir Computing | MIMO | reservoir-computing.pdf |
+| April 16, 2019 | Gaussian Processes Regression  | MISO | GPR.pdf |
