@@ -4,7 +4,7 @@ Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suz
 Reservoir Computing, to understand training process see [jujuba's article](http://jujuba.me/articles/reservoir_computing.html)
 
 # Prediction Models
-| # | Title | Solution | Difficulty |
+| Date | Model | Suited System | Document |
 |---| ----- | -------- | ---------- |
-|   | Gaussian Processes Regression  |            |
-|   | Auto Regressive  |            |
+| April 16, 2019 | Reservoir Computing | MIMO | |
+| April 16, 2019 | Gaussian Processes Regression  | MISO | |
