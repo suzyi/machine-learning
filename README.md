@@ -19,6 +19,7 @@ SISO - Single-Input Single-Output
 
 | Date(2019) | Model | Suited System | Document | ingredients |
 |---| ----- | -------- | ---------- | ---------- |
+|　 | Koopman Theory | MIMO | to-do |
 |　 | LSTM | to-do | to-do |
 | Apr 16 | Reservoir Computing | MIMO | [RC.pdf](https://github.com/suzyi/machine-learning/blob/master/RC.pdf) | neural network |
 | Apr 16 | Gaussian Processes Regression  | MISO | [GPR.pdf](https://github.com/suzyi/machine-learning/blob/master/GPR.pdf) | kernel trick |
