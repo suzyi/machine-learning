@@ -3,11 +3,20 @@ Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suz
 
 Reservoir Computing, to understand training process see [jujuba's article](http://jujuba.me/articles/reservoir_computing.html)
 # Data
+PDE - Partical Differential Equation
+
+ODE - Ordinary Differential Equation
+
 | Date(2019) | System | Generator | Characteristic |
 |---| ----- | -------- | ---------- |
-| Apr 16 | Lorenz | [Lorenz.ipynb](https://github.com/suzyi/python/blob/master/notebook/Lorenz.ipynb) | chaos, MIMO |
+|  | kuramoto sivashinsky |  | chaos, PDE |
+| Apr 16 | Lorenz | [Lorenz.ipynb](https://github.com/suzyi/python/blob/master/notebook/Lorenz.ipynb) | chaos, ODE |
 
 # Prediction Models
+MISO - Multi-Input Single-Output
+
+SISO - Single-Input Single-Output
+
 | Date(2019) | Model | Suited System | Document | ingredients |
 |---| ----- | -------- | ---------- | ---------- |
 |　 | LSTM | to-do | to-do |
