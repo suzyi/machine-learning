@@ -17,9 +17,9 @@ MISO - Multi-Input Single-Output
 
 SISO - Single-Input Single-Output
 
-| Date(2019) | Model | Suited System | Document | |
-|---| ----- | -------- | ---------- | ---------- | 
+| Date(2019) | Model | Suited System | code |
+|---| ----- | -------- | ---------- |
 |　 | Koopman Theory | MIMO | to-do |
 |　 | LSTM | to-do | to-do |
-| Apr 16 | Reservoir Computing | MIMO | [RC.pdf](https://github.com/suzyi/machine-learning/blob/master/document/RC.pdf) | | |
-| Apr 16 | Gaussian Processes Regression  | MISO | [GPR.pdf](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf) | [GPR-1D-demo.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/GPR-1D-demo.ipynb) |
+| Apr 16 | [Reservoir Computing](https://github.com/suzyi/machine-learning/blob/master/document/RC.pdf).pdf | MIMO | | |
+| Apr 16 | [Gaussian Processes Regression](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf).pdf  | MISO |  | [GPR-1D-demo.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/GPR-1D-demo.ipynb) |
