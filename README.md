@@ -23,6 +23,7 @@ SISO - Single-Input Single-Output
 
 | Date(2019) | Model | Suited System | code |
 |---| ----- | -------- | ---------- |
+|Apr 24 | GPR-gpu | | |
 |　 | Koopman Theory | MIMO | to-do |
 |　 | LSTM | to-do | to-do |
 | Apr 16 | [Reservoir Computing](https://github.com/suzyi/machine-learning/blob/master/document/RC.pdf).pdf | MIMO | [RC](https://github.com/suzyi/reservoir-computing)|
