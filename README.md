@@ -13,7 +13,7 @@ ODE - Ordinary Differential Equation
 
 | Date(2019) | System | Generator | Characteristic |
 |---| ----- | -------- | ---------- |
-|  | kuramoto sivashinsky |  | chaos, PDE |
+| May 7 | kuramoto sivashinsky | [KS.mat](https://github.com/suzyi/Gaussian-process-regression/blob/master/data/KS.mat) | chaos, PDE |
 | Apr 16 | Lorenz | [Lorenz.ipynb](https://github.com/suzyi/python/blob/master/notebook/Lorenz.ipynb) | chaos, ODE |
 
 # Prediction Models
