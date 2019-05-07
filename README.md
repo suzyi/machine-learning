@@ -23,8 +23,8 @@ SISO - Single-Input Single-Output
 
 | Date(2019) | Model | Suited System | code |
 |---| ----- | -------- | ---------- |
-|Apr 24 | GPR-gpu | | |
 |　 | Koopman Theory | MIMO | to-do |
 | May 7 | lstm | MIMO | [lstm-mnist-classification.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/rnn-lstm-mnist-classification.ipynb.ipynb), [lstm-prediction-Lorenz.ipynb] |
+|Apr 29 | GPR-parallel | doesn't reduce training time | [GPR-multiple-CPUs](https://github.com/suzyi/Gaussian-process-regression/tree/master/examples) |
 | Apr 16 | [Reservoir Computing](https://github.com/suzyi/machine-learning/blob/master/document/RC.pdf).pdf | MIMO | [RC](https://github.com/suzyi/reservoir-computing)|
 | Apr 16 | [Gaussian Processes Regression](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf).pdf  | MISO | [GPR-1D-demo.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/GPR-1D-demo.ipynb) |
