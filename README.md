@@ -5,6 +5,7 @@ Reservoir Computing, to understand training process see [jujuba's article](http:
 # Machine Learning Basics
 | Date(2019) | |
 |---| ----- |
+| May 9 | [training-using-batchsize-data.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/training-using-batchsize-data.ipynb) |
 | Apr 24 | [kernel density,mean and variance estimation.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/pdf-and-expectation-and-variance-estimation.ipynb) |
 # Data
 PDE - Partical Differential Equation
