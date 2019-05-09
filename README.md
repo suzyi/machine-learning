@@ -3,6 +3,8 @@ Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suz
 
 Reservoir Computing, to understand training process see [jujuba's article](http://jujuba.me/articles/reservoir_computing.html). History, papers recommendation, practical coding and demo demenstration see [minds-esnresearch](http://minds.jacobs-university.de/research/esnresearch/).
 # Machine Learning Basics
+data preprocessing, some tricks
+
 | Date(2019) | |
 |---| ----- |
 | May 9 | [training-using-batchsize-data.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/training-using-batchsize-data.ipynb) |
