@@ -2,14 +2,16 @@
 Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suzyi/machine-learning/blob/master/GPR.pdf)
 
 Reservoir Computing, to understand training process see [jujuba's article](http://jujuba.me/articles/reservoir_computing.html). History, papers recommendation, practical coding and demo demenstration see [minds-esnresearch](http://minds.jacobs-university.de/research/esnresearch/).
-# Machine Learning Basics
+## Machine Learning Basics
 data preprocessing, some tricks
 
 | Date(2019) | |
 |---| ----- |
 | May 9 | [training-using-batchsize-data.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/training-using-batchsize-data.ipynb) |
 | Apr 24 | [kernel density,mean and variance estimation.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/pdf-and-expectation-and-variance-estimation.ipynb) |
-# Data
+## Data
+
+**Time Series**
 PDE - Partical Differential Equation
 
 ODE - Ordinary Differential Equation
@@ -26,7 +28,7 @@ ODE - Ordinary Differential Equation
 | May 7 | kuramoto sivashinsky | [KS.mat](https://github.com/suzyi/Gaussian-process-regression/blob/master/data/KS.mat) | chaos, PDE |
 | Apr 16 | Lorenz | [Lorenz.ipynb](https://github.com/suzyi/python/blob/master/notebook/Lorenz.ipynb) | chaos, ODE |
 
-# Prediction Models
+## Prediction Models and Codes
 MISO - Multi-Input Single-Output
 
 SISO - Single-Input Single-Output
@@ -36,7 +38,6 @@ SISO - Single-Input Single-Output
 |　 | Koopman Theory | to-do |
 | May 7 | GAN | |
 | May 7 | resnet | |
-| May 7 | lstm | [lstm-mnist-classification.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/rnn-lstm-mnist-classification.ipynb.ipynb), [lstm-predict-Lorenz-on-tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network) |
 |Apr 29 | GPR-parallel, but doesn't reduce training time | [GPR-multiple-CPUs](https://github.com/suzyi/Gaussian-process-regression/tree/master/examples) |
 | Apr 16 | RNN | repo: [Recurrent Neural Network](https://github.com/suzyi/recurrent-neural-network) |
 | Apr 16 | [Gaussian Processes Regression](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf).pdf  | [GPR-1D-demo.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/GPR-1D-demo.ipynb) |
