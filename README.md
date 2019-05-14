@@ -31,13 +31,12 @@ MISO - Multi-Input Single-Output
 
 SISO - Single-Input Single-Output
 
-| Date(2019) | Model | Suited System | code |
-|---| ----- | -------- | ---------- |
-|　 | Koopman Theory | MIMO | to-do |
-| May 7 | GAN |  |  |
-| May 7 | resnet |  |  |
-| May 13 | seq2seq | MIMO | [seq2seq-sine-cosine-prediction-tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network),[lorenz-prediction](https://github.com/suzyi/recurrent-neural-network/blob/master/notebooks/seq2seq-Lorenz-prediction-tensorflow-xyz2xyz.ipynb) |
-| May 7 | lstm | MIMO | [lstm-mnist-classification.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/rnn-lstm-mnist-classification.ipynb.ipynb), [lstm-predict-Lorenz-on-tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network) |
-|Apr 29 | GPR-parallel | doesn't reduce training time | [GPR-multiple-CPUs](https://github.com/suzyi/Gaussian-process-regression/tree/master/examples) |
-| Apr 16 | [Reservoir Computing](https://github.com/suzyi/machine-learning/blob/master/document/RC.pdf).pdf | MIMO | [RC](https://github.com/suzyi/recurrent-neural-network)|
-| Apr 16 | [Gaussian Processes Regression](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf).pdf  | MISO | [GPR-1D-demo.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/GPR-1D-demo.ipynb) |
+| Date(2019) | Model | code |
+|---| ----- | ---------- |
+|　 | Koopman Theory | to-do |
+| May 7 | GAN | |
+| May 7 | resnet | |
+| May 7 | lstm | [lstm-mnist-classification.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/rnn-lstm-mnist-classification.ipynb.ipynb), [lstm-predict-Lorenz-on-tensorflow.ipynb](https://github.com/suzyi/recurrent-neural-network) |
+|Apr 29 | GPR-parallel, but doesn't reduce training time | [GPR-multiple-CPUs](https://github.com/suzyi/Gaussian-process-regression/tree/master/examples) |
+| Apr 16 | RNN | [Recurrent Neural Network](https://github.com/suzyi/recurrent-neural-network) |
+| Apr 16 | [Gaussian Processes Regression](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf).pdf  | [GPR-1D-demo.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/GPR-1D-demo.ipynb) |
