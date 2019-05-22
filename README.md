@@ -18,7 +18,6 @@ ODE - Ordinary Differential Equation
 
 | Date(2019) | System | Generator | Characteristic |
 |---| ----- | -------- | ---------- |
-| Apr 16 | Duffing system | [duffing.ipynb](https://github.com/suzyi/python/blob/master/notebook/duffing.ipynb) | ODE |
 | May 13 | Crime data | [CHI and LA crime data](https://data.cityofchicago.org/) | Wang, Bao, et al. "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data." arXiv preprint arXiv:1804.00684 (2018). |
 | May 13 | Weather data | [underground data base](https://www.wunderground.com/) | Wang, Bao, et al. "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data." arXiv preprint arXiv:1804.00684 (2018). |
 | May 13 | climate data | [US Historical Climatology Network](https://cdiac.ess-dive.lbl.gov/ftp/ushcn_daily/) | Yu, Rose, et al. "Long-term forecasting using tensor-train rnns." arXiv preprint arXiv:1711.00073 (2017). |
