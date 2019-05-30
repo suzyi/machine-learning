@@ -7,7 +7,7 @@ data preprocessing, some tricks
 
 | Date(2019) | |
 |---| ----- |
-| May 9 | [training-using-batchsize-data.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/training-using-batchsize-data.ipynb) |
+| May 9 | [training-using-batchsize-data.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/training-using-batchsize-data.ipynb) |
 | Apr 24 | [kernel density,mean and variance estimation.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebook/pdf-and-expectation-and-variance-estimation.ipynb) |
 ## Data
 
