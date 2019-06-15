@@ -5,10 +5,10 @@ Reservoir Computing, to understand training process see [jujuba's article](http:
 ## Machine Learning Basics
 data preprocessing, some tricks
 
-| Date(2019) | |
+| Date | codes |
 |---| ----- |
-| May 9 | [training-using-batchsize-data.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/training-using-batchsize-data.ipynb) |
-| Apr 24 | [kernel density,mean and variance estimation.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/pdf-and-expectation-and-variance-estimation.ipynb) |
+| Jun 14, 2019 | [training-using-batchsize-data.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/training-using-batchsize-data.ipynb) |
+| Apr 24, 2019 | [kernel density,mean and variance estimation.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/pdf-and-expectation-and-variance-estimation.ipynb) |
 ## Data
 
 **Time Series**
