@@ -6,9 +6,8 @@ Reservoir Computing, to understand training process see [jujuba's article](http:
 
 | Date | codes |
 |---| ----- |
-| Jul 2, 2019 | [load-save-data.ipynb]() |
-| Jul 2, 2019 | [plot-subplot-colorbar-surfaceplot.ipynb]() |
-| Jul 2, 2019 | [function-and-class.ipynb]() |
+| Jul 2, 2019 | [subplot-curve-surface-colorbar.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/subplot-curve-surface-colorbar.ipynb) |
+| Jul 2, 2019 | [function-class.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/function-class.ipynb) |
 
 ## Machine Learning Basics
 data preprocessing, some tricks
