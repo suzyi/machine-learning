@@ -2,8 +2,15 @@
 Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suzyi/machine-learning/blob/master/GPR.pdf)
 
 Reservoir Computing, to understand training process see [jujuba's article](http://jujuba.me/articles/reservoir_computing.html). History, papers recommendation, practical coding and demo demenstration see [minds-esnresearch](http://minds.jacobs-university.de/research/esnresearch/).
+## Programming Basics
+
 ## Machine Learning Basics
 data preprocessing, some tricks
+| Date | codes |
+|---| ----- |
+| Jul 2, 2019 | [load-save-data.ipynb]() |
+| Jul 2, 2019 | [plot-subplot-colorbar-surfaceplot.ipynb]() |
+| Jul 2, 2019 | [function-and-class.ipynb]() |
 
 | Date | codes |
 |---| ----- |
