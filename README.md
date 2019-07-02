@@ -6,6 +6,7 @@ Reservoir Computing, to understand training process see [jujuba's article](http:
 
 ## Machine Learning Basics
 data preprocessing, some tricks
+
 | Date | codes |
 |---| ----- |
 | Jul 2, 2019 | [load-save-data.ipynb]() |
