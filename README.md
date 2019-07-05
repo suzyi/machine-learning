@@ -25,6 +25,7 @@ ODE - Ordinary Differential Equation
 
 | Date(2019) | System | Generator | Characteristic |
 |---| ----- | -------- | ---------- |
+| Jul 5 | wikipedia web page traffic | [kaggle-data](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data) | |
 | Jun 27 | KdV | [twoSolitonKdV.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/KdV-2-soliton-solution.ipynb) |  |
 | May 13 | Crime data | [CHI and LA crime data](https://data.cityofchicago.org/) | Wang, Bao, et al. "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data." arXiv preprint arXiv:1804.00684 (2018). |
 | May 13 | Weather data | [underground data base](https://www.wunderground.com/) | Wang, Bao, et al. "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data." arXiv preprint arXiv:1804.00684 (2018). |
