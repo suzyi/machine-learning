@@ -27,10 +27,10 @@ ODE - Ordinary Differential Equation
 |---| ----- | ---------- |
 | Jul 5, 2019  | [wikipedia web page traffic-kaggle](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data) | |
 | Jun 27, 2019 | [twoSolitonKdV.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/KdV-2-soliton-solution.ipynb) |  |
-| May 13, 2019 | [CHI and LA crime data](https://data.cityofchicago.org/) | Wang, Bao, et al. "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data." arXiv preprint arXiv:1804.00684 (2018). |
-| May 13, 2019 | [underground Weather data](https://www.wunderground.com/) | Wang, Bao, et al. "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data." arXiv preprint arXiv:1804.00684 (2018). |
-| May 13, 2019 | [US Historical Climatology Network](https://cdiac.ess-dive.lbl.gov/ftp/ushcn_daily/) | Yu, Rose, et al. "Long-term forecasting using tensor-train rnns." arXiv preprint arXiv:1711.00073 (2017). |
-| May 13, 2019 | [US LA County highway network](http://pems.dot.ca.gov/) | Yu, Rose, et al. "Long-term forecasting using tensor-train rnns." arXiv preprint arXiv:1711.00073 (2017). |
+| May 13, 2019 | [CHI and LA crime data](https://data.cityofchicago.org/) | Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data |
+| May 13, 2019 | [underground Weather data](https://www.wunderground.com/) | Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data　|
+| May 13, 2019 | [US Historical Climatology Network](https://cdiac.ess-dive.lbl.gov/ftp/ushcn_daily/) | Long-term forecasting using tensor-train rnns|
+| May 13, 2019 | [US LA County highway network](http://pems.dot.ca.gov/) | Long-term forecasting using tensor-train rnns |
 | May 13, 2019 | [Iberian Electricity Price-smartwatt-competition](http://complatt.smartwatt.net/#/public/home) |
 | May 13, 2019 | [yahoo-finance-vix](https://ca.finance.yahoo.com/quote/%5EVIX/history?p=^VIX) |
 | May 13, 2019 | [yahoo-finance-tsla](https://finance.yahoo.com/quote/TSLA/history?p=TSLA) |
