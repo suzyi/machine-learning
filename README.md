@@ -23,19 +23,19 @@ PDE - Partical Differential Equation
 
 ODE - Ordinary Differential Equation
 
-| Date(2019) | System | Generator | Characteristic |
-|---| ----- | -------- | ---------- |
-| Jul 5 | wikipedia web page traffic | [kaggle-data](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data) | |
-| Jun 27 | KdV | [twoSolitonKdV.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/KdV-2-soliton-solution.ipynb) |  |
-| May 13 | Crime data | [CHI and LA crime data](https://data.cityofchicago.org/) | Wang, Bao, et al. "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data." arXiv preprint arXiv:1804.00684 (2018). |
-| May 13 | Weather data | [underground data base](https://www.wunderground.com/) | Wang, Bao, et al. "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data." arXiv preprint arXiv:1804.00684 (2018). |
-| May 13 | climate data | [US Historical Climatology Network](https://cdiac.ess-dive.lbl.gov/ftp/ushcn_daily/) | Yu, Rose, et al. "Long-term forecasting using tensor-train rnns." arXiv preprint arXiv:1711.00073 (2017). |
-| May 13 | traffic data | [US LA County highway network](http://pems.dot.ca.gov/) | Yu, Rose, et al. "Long-term forecasting using tensor-train rnns." arXiv preprint arXiv:1711.00073 (2017). |
-| May 13 | Iberian Electricity Price | [smartwatt-competition](http://complatt.smartwatt.net/#/public/home) |
-| May 13 | CBOE Volatility Index | [yahoo-finance-vix](https://ca.finance.yahoo.com/quote/%5EVIX/history?p=^VIX) |
-| May 13 | Tesla | [yahoo-finance-tsla](https://finance.yahoo.com/quote/TSLA/history?p=TSLA) |
-| May 7 | kuramoto sivashinsky | [KS.mat](https://github.com/suzyi/Gaussian-process-regression/blob/master/data/KS.mat) | chaos, PDE |
-| Apr 16 | Lorenz | [Lorenz.ipynb](https://github.com/suzyi/python/blob/master/notebook/Lorenz.ipynb) | chaos, ODE |
+| Date | Generator | paper |
+|---| ----- | ---------- |
+| Jul 5, 2019  | [wikipedia web page traffic-kaggle](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data) | |
+| Jun 27, 2019 | [twoSolitonKdV.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/KdV-2-soliton-solution.ipynb) |  |
+| May 13, 2019 | [CHI and LA crime data](https://data.cityofchicago.org/) | Wang, Bao, et al. "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data." arXiv preprint arXiv:1804.00684 (2018). |
+| May 13, 2019 | [underground Weather data](https://www.wunderground.com/) | Wang, Bao, et al. "Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data." arXiv preprint arXiv:1804.00684 (2018). |
+| May 13, 2019 | [US Historical Climatology Network](https://cdiac.ess-dive.lbl.gov/ftp/ushcn_daily/) | Yu, Rose, et al. "Long-term forecasting using tensor-train rnns." arXiv preprint arXiv:1711.00073 (2017). |
+| May 13, 2019 | [US LA County highway network](http://pems.dot.ca.gov/) | Yu, Rose, et al. "Long-term forecasting using tensor-train rnns." arXiv preprint arXiv:1711.00073 (2017). |
+| May 13, 2019 | [Iberian Electricity Price-smartwatt-competition](http://complatt.smartwatt.net/#/public/home) |
+| May 13, 2019 | [yahoo-finance-vix](https://ca.finance.yahoo.com/quote/%5EVIX/history?p=^VIX) |
+| May 13, 2019 | [yahoo-finance-tsla](https://finance.yahoo.com/quote/TSLA/history?p=TSLA) |
+| May 7, 2019 | [KS.mat](https://github.com/suzyi/Gaussian-process-regression/blob/master/data/KS.mat) | chaos, PDE |
+| Apr 16, 2019 | [Lorenz.ipynb](https://github.com/suzyi/python/blob/master/notebook/Lorenz.ipynb) | chaos, ODE |
 
 | Date(2018) | System | Generator | Characteristic |
 |---| ----- | -------- | ---------- |
