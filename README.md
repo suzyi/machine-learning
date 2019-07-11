@@ -25,6 +25,7 @@ ODE - Ordinary Differential Equation
 
 | Date | Generator | paper |
 |---| ----- | ---------- |
+| Jul 5, 2019  | [Bilingual Sentence Pairs](http://www.manythings.org/anki/) | |
 | Jul 5, 2019  | [wikipedia web page traffic-kaggle](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data) | [1st place solution: seq2seq](https://github.com/Arturus/kaggle-web-traffic) |
 | Jun 27, 2019 | [twoSolitonKdV.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/KdV-2-soliton-solution.ipynb) |  |
 | May 13, 2019 | [CHI and LA crime data](https://data.cityofchicago.org/) | Graph-Based Deep Modeling and Real Time Forecasting of Sparse Spatio-Temporal Data |
