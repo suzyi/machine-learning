@@ -59,7 +59,8 @@ SISO - Single-Input Single-Output
 | Apr 16 | [Gaussian Processes Regression](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf).pdf  | [GPR-1D-demo.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/GPR-1D-demo.ipynb) |
 
 ## How to Set/Decide the Parameters of a Neural Network?
-If the training process of Neural Network is completed in just about 3 epochs and the training error drops quickly, like 
++ Generally, there are two types of parameters. The first kind are those parameters related to the selection of features and labels, like input and output dimension. The second kind are parameters of the model, like width and depth of a neural network. During the process of finding better parameters, adjust the second kind while keeping the first kind fixed is a good strategy.
++ If the training process of Neural Network is completed in just about 3 epochs and the training error drops quickly, like 
 <p align="center">
   <img src="http://suzyi.github.io/images/overfitting-training-curve.png", alt="sturcture of a lstm unit", width=500px>
 </p>
