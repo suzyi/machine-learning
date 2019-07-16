@@ -57,3 +57,10 @@ SISO - Single-Input Single-Output
 |Apr 29 | GPR-parallel, but doesn't reduce training time | [GPR-multiple-CPUs](https://github.com/suzyi/Gaussian-process-regression/tree/master/examples) |
 | Apr 16 | RNN | repo: [Recurrent Neural Network](https://github.com/suzyi/recurrent-neural-network) |
 | Apr 16 | [Gaussian Processes Regression](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf).pdf  | [GPR-1D-demo.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/GPR-1D-demo.ipynb) |
+
+## How to Set/Decide the Parameters of a Neural Network?
+If the training process of Neural Network is completed in just about 3 epochs and the training error drops quickly, like 
+<p align="center">
+  <img src="http://suzyi.github.io/images/overfitting-training-curve.png", alt="sturcture of a lstm unit", width=500px>
+</p>
+then in most cases it means your model is too deep or too wide (thus too powerful) and you'd better decrease the width or depth.
