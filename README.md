@@ -58,6 +58,13 @@ SISO - Single-Input Single-Output
 | Apr 16 | [Gaussian Processes Regression](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf).pdf  | [GPR-1D-demo.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/GPR-1D-demo.ipynb) |
 
 ## How to Set/Decide the Parameters of a Neural Network?
+```
+f = open('KdV-seq2seq-training-process.csv','a')
+f.write("predict_error, enc_steps, dec_steps, latent_dim, num_discard, num_train, num_test, batch_sz, num_iter, time_cost(mins), activate_units, npseed, q, l\n")
+f.write("{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}\n".
+       format(predict_error, enc_steps, dec_steps, latent_dim, num_discard, num_train, num_test, batch_sz, num_iter, time_cost, activate_units, npseed, q, l))
+f.close()
+```
 + Generally, there are two types of parameters. The first kind are those parameters related to the selection of features and labels, like input and output dimension. The second kind are parameters of the model, like width and depth of a neural network. During the process of finding better parameters, adjust the second kind while keeping the first kind fixed is a good strategy.
 + If the training process of Neural Network is completed in just about 3 epochs and the training error drops quickly, like 
 <p align="center">
