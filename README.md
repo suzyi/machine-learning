@@ -74,3 +74,28 @@ f.close()
   <img src="http://suzyi.github.io/images/overfitting-training-curve.png", alt="sturcture of a lstm unit", width=500px>
 </p>
 then in most cases it means your model is too deep or too wide (thus too powerful) and you'd better decrease the width or depth.
+
+## Make Model Reproduceable
+### Make Model Built using Tensorflow
+No matter GPU is enabled or not, add the following piece of code at the start of your code so that it is reproduceable.
+```
+import tensorflow as tf
+sd = 1
+tf.reset_default_graph()
+sess = tf.InteractiveSession()
+tf.set_random_seed(seed = sd)
+```
+### Make the Model Built using Keras with Tensorflow as Backend Reproduceable
+When you're using Keras with Tensorflow as backend, you'll find it is very hard to make the result reproduceable, especially when GPU is enabled. However, here we still have a method. The key idea is to disable GPU. All in all, add the following piece of code at the begining of your code is enough.
+```
+sd = 1
+np.random.seed(sd)
+rn.seed(sd)
+os.environ['PYTHONHASHSEED']=str(sd)
+
+from keras import backend as K
+config = tf.ConfigProto(intra_op_parallelism_threads=1,inter_op_parallelism_threads=1)
+tf.set_random_seed(sd)
+sess = tf.Session(graph=tf.get_default_graph(), config=config)
+K.set_session(sess)
+```
