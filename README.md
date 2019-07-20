@@ -86,15 +86,19 @@ sess = tf.InteractiveSession()
 tf.set_random_seed(seed = sd)
 ```
 ### Make the Model Built using Keras with Tensorflow as Backend Reproduceable
-When you're using Keras with Tensorflow as backend, you'll find it is very hard to make the result reproduceable, especially when GPU is enabled. However, here we still have a method. First, disable GPU.
+When you're using Keras with Tensorflow as backend, you'll find it is very hard to make the result reproduceable, especially when GPU is enabled. However, here we still have a solution. First, disable GPU.
 ```
 import os
 os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 ```
-Second, add the following piece of code at the begining of your code.
+Second, seed those libraries which are included in your code, say "tensorflow, numpy, random".
 ```
-sd = 1
+import tensorflow as tf
+import numpy as np
+import random as rn
+
+sd = 1 # Here sd means seed.
 np.random.seed(sd)
 rn.seed(sd)
 os.environ['PYTHONHASHSEED']=str(sd)
@@ -105,3 +109,4 @@ tf.set_random_seed(sd)
 sess = tf.Session(graph=tf.get_default_graph(), config=config)
 K.set_session(sess)
 ```
+Make sure these two pieces of code are included at the start of your code, then the result will be reproducible.
