@@ -6,7 +6,6 @@ Reservoir Computing, to understand training process see [jujuba's article](http:
 
 | Date | codes |
 |---| ----- |
-| Sep 25, 2019 | [periodic_condition.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/periodic_condition.ipynb) |
 | Jul 2, 2019 | [subplot-subplots-curve-surface-colorbar.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/subplot-subplots-curve-surface-colorbar.ipynb) |
 | Jul 2, 2019 | [function-class.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/function-class.ipynb) |
 
@@ -15,6 +14,7 @@ data preprocessing, some tricks
 
 | Date | codes |
 |---| ----- |
+| Sep 25, 2019 | [periodic_condition.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/periodic_condition.ipynb) |
 | Jun 14, 2019 | [training-using-batchsize-data.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/training-using-batchsize-data.ipynb) |
 | Apr 24, 2019 | [kernel density,mean and variance estimation.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/pdf-and-expectation-and-variance-estimation.ipynb) |
 ## Data
