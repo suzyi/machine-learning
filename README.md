@@ -1,8 +1,8 @@
 # machine-learning
 + May 2, 2020. Intro-to-classification, [theory](https://github.com/suzyi/machine-learning/blob/master/document/intro-to-classification.pdf)
 + May 2, 2020. Support Machine Vector, [theory](https://github.com/suzyi/machine-learning/blob/master/document/SVM.pdf)
-+ Logistic Regression, [theory](https://github.com/suzyi/machine-learning/blob/master/document/logistic-reg.pdf)
-+ Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf)
++ Mar 26, 2020. Logistic Regression, [theory](https://github.com/suzyi/machine-learning/blob/master/document/logistic-reg.pdf)
++ Apr 23, 2019. Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf)
 + Reservoir Computing, to understand training process see [jujuba's article](http://jujuba.me/articles/reservoir_computing.html). History, papers recommendation, practical coding and demo demenstration see [minds-esnresearch](http://minds.jacobs-university.de/research/esnresearch/).
 ## Programming Basics
 
