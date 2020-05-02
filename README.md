@@ -1,4 +1,6 @@
 # machine-learning
+Support Machine Vector, [theory](https://github.com/suzyi/machine-learning/blob/master/document/SVM.pdf)
+
 Logistic Regression, [theory](https://github.com/suzyi/machine-learning/blob/master/document/logistic-reg.pdf)
 
 Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf)
