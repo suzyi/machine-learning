@@ -1,4 +1,5 @@
 # machine-learning
++ May 5, 2020. Ensemble learning-adaboost, theory, [code-example](https://github.com/suzyi/machine-learning/blob/master/document/adaboost_code.txt)
 + May 3, 2020. Descent method, including gradient descent method and Newton's method, [theory](https://github.com/suzyi/machine-learning/blob/master/document/descent-method.pdf).
 + May 2, 2020. Intro-to-classification, [theory](https://github.com/suzyi/machine-learning/blob/master/document/intro-to-classification.pdf).
 + May 2, 2020. Support Machine Vector, [theory](https://github.com/suzyi/machine-learning/blob/master/document/SVM.pdf).
