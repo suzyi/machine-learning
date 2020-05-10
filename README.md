@@ -1,5 +1,6 @@
 # machine-learning
 + May 10, 2020. Maximum Likelihood Estimation (MLP) and Maximum A Posteriori (MAP), [theory](https://github.com/suzyi/machine-learning/blob/master/document/mlp-map.pdf).
++ May 8, 2020. The difference between cross entropy loss and the logistic regression loss, [theory](https://github.com/suzyi/machine-learning/blob/master/document/cross-entropy-vs-logistic-reg-loss.pdf).
 + May 5, 2020. Ensemble learning-adaboost, theory, [code-example](https://github.com/suzyi/machine-learning/blob/master/document/adaboost_code.txt).
 + May 3, 2020. Descent method, including gradient descent method and Newton's method, [theory](https://github.com/suzyi/machine-learning/blob/master/document/descent-method.pdf).
 + May 2, 2020. Intro-to-classification, [theory](https://github.com/suzyi/machine-learning/blob/master/document/intro-to-classification.pdf).
