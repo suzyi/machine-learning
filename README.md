@@ -12,6 +12,7 @@
 
 | Date | codes |
 |---| ----- |
+| Feb 19, 2022 | [plot_hist.py](py-files/plot_hist.py), [result](py-files/hist.png) |
 | Jul 2, 2019 | [subplot-subplots-curve-surface-colorbar.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/subplot-subplots-curve-surface-colorbar.ipynb) |
 | Jul 2, 2019 | [function-class.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/function-class.ipynb) |
 
