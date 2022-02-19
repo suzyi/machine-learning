@@ -9,6 +9,7 @@
 + Apr 23, 2019. Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf).
 + Reservoir Computing, to understand training process see [jujuba's article](http://jujuba.me/articles/reservoir_computing.html). History, papers recommendation, practical coding and demo demenstration see [minds-esnresearch](http://minds.jacobs-university.de/research/esnresearch/).
 ## Programming Basics
++ scatter.py. This is an example of mapping high dimensional points to 2D plane to visualize them.
 + [plot_hist.py](py-files/plot_hist.py)
 <p align="center">
   <img src="py-files/hist.png" width="400" title="hist.png">
