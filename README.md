@@ -9,10 +9,13 @@
 + Apr 23, 2019. Gaussian Processes Regression (GPR), [theory, conclusion](https://github.com/suzyi/machine-learning/blob/master/document/GPR.pdf).
 + Reservoir Computing, to understand training process see [jujuba's article](http://jujuba.me/articles/reservoir_computing.html). History, papers recommendation, practical coding and demo demenstration see [minds-esnresearch](http://minds.jacobs-university.de/research/esnresearch/).
 ## Programming Basics
++ [plot_hist.py](py-files/plot_hist.py)
+<p align="center">
+  <img src="py-files/hist.png" width="400" title="hist.png">
+</p>
 
 | Date | codes |
 |---| ----- |
-| Feb 19, 2022 | [plot_hist.py](py-files/plot_hist.py), [result](py-files/hist.png) |
 | Jul 2, 2019 | [subplot-subplots-curve-surface-colorbar.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/subplot-subplots-curve-surface-colorbar.ipynb) |
 | Jul 2, 2019 | [function-class.ipynb](https://github.com/suzyi/machine-learning/blob/master/notebooks/function-class.ipynb) |
 
